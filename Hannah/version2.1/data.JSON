@@ -1,0 +1,28 @@
+[
+    {
+        "INTLDES": "1961-013A",
+        "NORAD_CAT_ID": "107",
+        "OBJECT_TYPE": "PAYLOAD",
+        "SATNAME": "EXPLORER 11",
+        "COUNTRY": "US",
+        "LAUNCH": "1961-04-27",
+        "SITE": "AFETR",
+        "DECAY": null,
+        "PERIOD": "101.49",
+        "INCLINATION": "28.79",
+        "APOGEE": "1195",
+        "PERIGEE": "463",
+        "COMMENT": null,
+        "COMMENTCODE": null,
+        "RCSVALUE": "0",
+        "RCS_SIZE": "MEDIUM",
+        "FILE": "9068",
+        "LAUNCH_YEAR": "1961",
+        "LAUNCH_NUM": "13",
+        "LAUNCH_PIECE": "A",
+        "CURRENT": "Y",
+        "OBJECT_NAME": "EXPLORER 11",
+        "OBJECT_ID": "1961-013A",
+        "OBJECT_NUMBER": "107"
+    }
+]
